@@ -9,4 +9,4 @@ List of event objects:
 
 ![](images/currentuser_report.PNG)
 
-This script is project-based suggested by Google following the "Crash Course on Python" on Coursera.
+This script is a project-based suggested by Google following the "Crash Course on Python" on Coursera.
